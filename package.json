@@ -1,7 +1,7 @@
 {
   "name": "hapi-rest-mongo",
   "version": "1.0.0",
-  "description": "Building REST-API over MongoDB uing hapi js",
+  "description": "Building REST-API over MongoDB using hapi js",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
